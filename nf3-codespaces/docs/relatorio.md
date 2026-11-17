@@ -1,5 +1,5 @@
 # Relatório NF3
-Equipe e contribuições:
+Equipe e contribuições: João Pedro, Carlos Vitor, Yuri
 Data, versão MySQL e commit:
 
 ## Modelagem e normalização
